@@ -2,8 +2,8 @@
 ode to an academic advisor
 
 ### crappy:
-not being able to hike
+- not being able to hike
 
 ### happy: 
-seeing friends
+- seeing friends
 
